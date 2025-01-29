@@ -48,7 +48,7 @@ react-frontend uses Semantic UI React as CSS-styled framework.
 
 Clone the repository:
 
-<pre>git clone https://github.com/purshink/ReactJS-Spring-Boot-Full-Stack-App.git</pre>
+<pre>git clone https://github.com/VelooruThejasree/Full-Stack-Project.git</pre>
 
 Navigate to the newly created folder:
 
